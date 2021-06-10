@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Tabah_MizuKa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 🎂 Hey my age = 18 Y.O
-<!---
-Mizukaa/Mizukaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Name:Rahmad Tabah S
+Nickname: MizuKa
+My Age : 18 Years 
+Profession: Cooding, Carding..
+My device : Whyred
+My Game  : Mobile Legend ,Pubg 
+My Github : @TabahMizuKa
+My religion :Islam
+
+
+I'm learning coding and web development
